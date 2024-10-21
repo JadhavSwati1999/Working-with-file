@@ -158,7 +158,7 @@ There are two file types
 
 **cp** — is used to copy the file .The is present at both the location.
 
-**syntax :** cp filename destination(path)
+**syntax :** cp filename destination(path).
 
 
 # Deletion
