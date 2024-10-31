@@ -70,7 +70,7 @@ cd - is used to change the directory
 cd .. - is used to come one directory back from the present directory
 
 
-## File reading types
+## File reading types.
 
 less filename - to read data top - bottom
 
