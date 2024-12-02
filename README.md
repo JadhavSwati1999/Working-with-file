@@ -2,7 +2,7 @@
 
 ## Working with files in linux involves creation , modification, identification, deletion , renaming and moving using some basic commands.
 
-## **1. Creation**
+## **1. Creation**.
 
 There are four ways to create a file.
 
