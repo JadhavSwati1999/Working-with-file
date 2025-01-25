@@ -8,7 +8,7 @@ There are four ways to create a file.
 
 - **cat**
 
- cat > filename - it creates a file & if you again execute the same command the content is     overwritten .
+ cat > filename - it creates a file & if you again execute the same command the content is overwritten .
 
 
 
