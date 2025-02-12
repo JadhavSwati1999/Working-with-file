@@ -34,7 +34,7 @@ nano filename
 
 - **vi**
 
-Vi is a editor in which there are four modes 
+Vi is a editor in which there are four modes.
 
 1. **Normal/default/command mode**
 2. **Insertion mode**
