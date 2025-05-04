@@ -25,7 +25,7 @@ touch filename -used to create empty files.
 touch filename{1..n} OR touch file1,file2,file3 - used to create multiple empty files.
 
 
-touch .filename — to create hidden files
+touch .filename — to create hidden files.
 
 
 - **nano**
