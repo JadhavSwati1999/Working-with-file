@@ -57,7 +57,7 @@ there are some commands to exit from the editor
 
  
 
-## to create a directory
+## to create a directory.
 
 mkdir directoryname - to create a single directory
 
